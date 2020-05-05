@@ -9,7 +9,9 @@
 **AMI(AMAZON MACHINE INSTANCE)**:
 ##1.It is a backup of entire EC-2 instances. For example: with proper cinfigiration its possible to create ami
    which includes multiples ebs volumes/
+   
 ##2.AMI is representation of system state at specific time./
 ##3.An ami is similar,but its for the EC-2 instance themselves you cannot take a snapshot of a non ebs backed instamce,
-   butyou can create a ami of one/
+butyou can create a ami of one/
+
 ##4.we use an AMI to save instance configuration/
